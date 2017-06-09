@@ -1,4 +1,4 @@
-// Move the mouse across the screen as a sine wave.
+#!/usr/bin/env node
 const robot = require('robotjs')
 const asciiArt = require('./ascii-art')
 

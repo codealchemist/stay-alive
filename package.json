@@ -6,6 +6,9 @@
   "scripts": {
     "start": "node index.js"
   },
+  "bin": {
+    "stay-alive": "index.js"
+  },
   "author": "Alberto Miranda",
   "repository": "codealchemist/stay-alive",
   "license": "MIT",
