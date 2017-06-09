@@ -1,0 +1,15 @@
+{
+  "name": "stay-alive",
+  "version": "1.0.0",
+  "description": "Makes tiny mouse movements forcing your machine to stay alive.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Alberto Miranda",
+  "repository": "codealchemist/stay-alive",
+  "license": "MIT",
+  "dependencies": {
+    "robotjs": "^0.4.7"
+  }
+}

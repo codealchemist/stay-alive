@@ -1,0 +1,10 @@
+      _                          _ _
+  ___| |_ __ _ _   _        __ _| (_)_   _____
+ / __| __/ _` | | | |_____ / _` | | \ \ / / _ \
+ \__ \ || (_| | |_| |_____| (_| | | |\ V /  __/
+ |___/\__\__,_|\__, |      \__,_|_|_| \_/ \___|
+               |___/
+
+Hi! If you stop moving your pointer for a while,
+I'll make tiny movements with it forcing your
+machine to stay alive. Enjoy!
