@@ -13,6 +13,6 @@
   "repository": "codealchemist/stay-alive",
   "license": "MIT",
   "dependencies": {
-    "robotjs": "^0.4.7"
+    "robotjs": "^0.6.0"
   }
 }
