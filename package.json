@@ -1,6 +1,6 @@
 {
   "name": "stay-alive",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Makes tiny mouse movements forcing your machine to stay alive.",
   "main": "index.js",
   "scripts": {
@@ -13,6 +13,6 @@
   "repository": "codealchemist/stay-alive",
   "license": "MIT",
   "dependencies": {
-    "robotjs": "^0.4.7"
+    "robotjs": "^0.6.0"
   }
 }
